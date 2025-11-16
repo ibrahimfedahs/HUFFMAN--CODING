@@ -68,7 +68,20 @@ for (char, frequency) in freq:
 ```
 # Output:
 ```
-<img width="1092" height="298" alt="image" src="https://github.com/user-attachments/assets/5d8957ee-bac5-40d6-8628-de53502663e5" />
+ Char | Huffman code 
+----------------------
+'I'  |          01
+'L'  |         101
+'E'  |         100
+'A'  |        1101
+'T'  |        1100
+'C'  |        1111
+'N'  |        1110
+'R'  |        0001
+'F'  |        0000
+' '  |        0011
+'G'  |        0010
+
 
 ```
 
